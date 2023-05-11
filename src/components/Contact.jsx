@@ -6,13 +6,7 @@ import { styles } from "../style";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
-import { error } from "console";
 
-//fHbHxzvaKOpbuKFxO
-
-//template_3rgilmq
-
-//service_rvpfqmb
 
 const Contact = () => {
   const formRef = useRef()

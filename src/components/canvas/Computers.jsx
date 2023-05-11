@@ -56,7 +56,6 @@ const ComputersCanas =() =>{
         />
         <Computers isMobile={isMobile} />
       </Suspense>
-
       <Preload all />
     </Canvas>
   )
